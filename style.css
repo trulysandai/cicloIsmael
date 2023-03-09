@@ -1,0 +1,17 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+.contenedor{
+    margin:auto;
+    width: 1920px;
+    height: 850px;
+    position:relative;
+    border:1px solid #000;
+    background: url('super.webp') no-repeat 0 0;
+}
+            
+.corredor{
+    width: 200px;
+    height: 200px;
+    background: url('mario.gif') no-repeat 0 0;
+    position:absolute;
+    bottom:0;
+}
